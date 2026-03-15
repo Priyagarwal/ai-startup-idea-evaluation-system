@@ -1,2 +1,2 @@
 # ai-startup-idea-evaluation-system
-AI-based framework to evaluate startup ideas using rule-based scoring and feasibility analysis.
+AI-based startup idea evaluation system using Python with rule-based scoring and planned LLM integration for idea analysis.
