@@ -1,0 +1,22 @@
+GET http://localhost:5000/
+
+###
+
+POST http://localhost:5000/career
+Content-Type: application/json
+
+{
+  "skills": "coding",
+  "interests": "AI"
+}
+
+###
+
+POST http://localhost:5000/signup-founder
+Content-Type: application/json
+
+{
+  "name": "Priya",
+  "email": "priya@test.com",
+  "idea": "AI Startup Evaluation Platform"
+}
